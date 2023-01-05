@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "b257e894-2b95-4b52-8bab-f27adeb29ede",
+		"name": "MyFirstApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25137834"
+	},
+	"item": [
+		{
+			"name": "Employees",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
